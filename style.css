@@ -30,11 +30,9 @@ p{
     margin-left: 5%;
     padding-left: 2%;
 }
-
 .half-width img{
     width: 100%;
 }
-
 .link-button{
     text-decoration: none;
     padding: 10px 20px;
@@ -49,7 +47,6 @@ p{
     background-position: right;
     margin-bottom: 350px;
 }
-
 .experience-area{
     background-image: url('images/exp-bg.png');
     background-repeat: no-repeat;
@@ -65,18 +62,15 @@ p{
     border-image: linear-gradient(180deg, lightSalmon, tomato);
     border-image-slice: 1;
 }
-
 #baby-developer{
     border-left: 7px solid;
     border-image: linear-gradient(180deg, blue, cyan);
     border-image-slice: 1;
 }
-
 .single-experience{
     box-shadow: 10px 10px 40px gray;
     height: 80%;
     border-radius: 5px;
-
 }
 
 footer p{
